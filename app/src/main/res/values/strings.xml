@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ColorMyViews</string>
+    <string name="box_one">Box One</string>
+    <string name="box_two">Box Two</string>
+    <string name="box_three">Box Three</string>
+    <string name="box_four">Box Four</string>
+    <string name="box_five">Box Five</string>
+    <string name="how_to_play">Como Jugar:</string>
+    <string name="tap_the_boxes_and_buttons">Presiona en alguna caja o en cualquier lugar de la pantalla</string>
+    <string name="button_red">Rojo</string>
+    <string name="button_yellow">Amarillo</string>
+    <string name="button_green">Verde</string>
+</resources>
